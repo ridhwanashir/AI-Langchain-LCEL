@@ -66,11 +66,7 @@ Make sure to replace the placeholders with your actual Azure OpenAI credentials.
 
 ### 5. Run the notebook
 
-Launch Jupyter and open the provided notebooks:
-
-```bash
-jupyter notebook
-```
+Launch Jupyter or other IDE that support Python Notebook (VSCODE) and open the provided notebooks:
 
 Open either the `LCEL-Notebook-Intro.ipynb` or `LCEL-Notebook-Deep-Dive.ipynb` to start exploring LCEL with LangChain.
 
